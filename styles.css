@@ -842,6 +842,9 @@ footer p {
   text-decoration: none;
   max-width:fit-content;
 }
+.lightbox-arrow {
+    color: black;
+}
 @media (max-width: 900px) {
   .funnel-overview,
   .funnel-path {
